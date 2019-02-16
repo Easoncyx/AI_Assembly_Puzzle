@@ -7,3 +7,5 @@ If you don't use ipython notebook, for your convinence I generate a python file 
 
 
 You are welcome to use this code as part of your solution. Please contact me if you have better solution and I'm willing to talk.
+
+.idea/ is pycharm project directory, you can use pycharm to open this directory. 
